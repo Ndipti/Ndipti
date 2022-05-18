@@ -1,0 +1,14 @@
+1) https://john.soban.ski/install-opendaylight-ubuntu-lts-fast.html
+
+2) https://www.brianlinkletter.com/2016/02/using-the-opendaylight-sdn-controller-with-the-mininet-network-emulator/
+
+
+odl-dlux-core
+odl-l2switch-switch-ui
+odl-dluxapps-yangutils
+odl-dluxapps-yangman
+odl-dluxapps-yangui
+odl-dluxapps-topology
+odl-dluxapps-nodes
+odl-dluxapps-applications
+
